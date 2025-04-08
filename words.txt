@@ -54,12 +54,12 @@ ihnen-Sie: Sie 뒤에는 ‘-en’으로 활용
 gehen: v. go
 kommen: v. come
 kaufen: v. buy
-wohnen in: v. live in
+inwohnen: v. live in
 gang: n. way
 aus: prep. ex
 ein: prep. in
 an: prep. at
-Koenigshof: n. King’s Palace
+Königshof: n. King’s Palace
 
 spielen: v. play
 sammelen: v. collect
@@ -77,10 +77,8 @@ Schule : n. school
 Student/Studentin : v. student (대학생)
 Universität (Uni.) : n. university
 spazieren gehen : v. go for a walk
-sprachen : v. speak (2/3인칭 단수 불규칙)
 Sprache : n. language
-du sprichst : n. language
-er/sie/es spricht : n. language
+sprachen/sprichst/spricht : v. speak
 reden : v. talk
 Muttersprache : n. 모국어
 Vaterland : n. 조국
