@@ -1,4 +1,109 @@
-apple: 사과
-banana: 바나나
-computer: 컴퓨터
-dream: 꿈
+unbestimmt Artikel: indefinite article
+Abentbrot: n. evening bread
+nach: prep. toward
+Eine kleine Nachtmusik: n. 소야곡 (Mozart)
+Endung: n. ending
+Bahn: n. rail, railway
+rufen: v. call
+Berufung: n. calling (소명)
+Ruf: n. call
+Wissenschaft: n. knowledgecraft, academic discipline (학문)
+wissen: v. know
+Uhr: n. clock, watch
+Universität: n. univeristy
+Straße: n. street
+Stadt: n. state (city)
+Staad: n. state (nation)
+Ökonomie: n. economy
+Ökologie: n. ecology
+Tochter: n. daughter
+Töchter: n. daughters
+Sohn: n. son
+Söhne: n. sons
+müde: adj. tired
+über: prep. over, about
+
+Gott: n. God
+sehen: v. see
+gehen: v. go
+viel: adj. many
+Entmythologisierung: n. demythologization
+Polizei: n. police
+Frankfurt am Main: n. Frankfurt at Main
+Flughafen: n. airport
+Flugzeug: n. airplane
+Wurst: n. sausage
+Herr: n. Mister
+Frau: n. Ms.
+Inhen: pron. [3격/I.O.] you (당신에게)
+dir: pron. [3격/I.O.] you (너에게)
+Taufel: n. devil
+nicht: ad. not
+sehr: ad. very
+auf: prep. on
+ab: prep. from, off, down
+schon: adj. beautiful
+der, die, das: 정관사 the
+ja: intj. yes
+nein: intj. no
+
+krank: adj. sick
+heute: ad. today
+lernen: v. learn (인칭 변화 - lerne-lernst-lernt / lernen-lernt-lernen)
+ihnen-Sie: Sie 뒤에는 ‘-en’으로 활용
+gehen: v. go
+kommen: v. come
+kaufen: v. buy
+wohnen in: v. live in
+gang: n. way
+aus: prep. ex
+ein: prep. in
+an: prep. at
+Koenigshof: n. King’s Palace
+
+spielen: v. play
+sammelen: v. collect
+Freund: n. friend
+Freundin: n. girlfriend
+lernen: v. learn
+lehren: v. teach
+Lehrer: n. teacher
+
+studieren : v. study (연구하다)
+üben : v. 연습하다
+Übung : n. 연습
+Schüler/Schülerin : n. student (학교 학생)
+Schule : n. school
+Student/Studentin : v. student (대학생)
+Universität (Uni.) : n. university
+spazieren gehen : v. go for a walk
+sprachen : v. speak (2/3인칭 단수 불규칙)
+Sprache : n. language
+du sprichst : n. language
+er/sie/es spricht : n. language
+reden : v. talk
+Muttersprache : n. 모국어
+Vaterland : n. 조국
+als : prep : as
+Koreanisch : adj. Korean
+tanzen : v. dance
+ins : prep. int + das
+Kino : n. cinema
+zuhören : v. (분리동사)
+Ich höre zu. : v. (분리동사)
+abholen : v. pick up
+Ich hole dich ab : v. pick up
+still/stille : adj. silent
+fallen : v. fall (2/3인칭 단수 불규칙)
+du fällst : v. fall (2/3인칭 단수 불규칙)
+er/sie/es fallt : v. fall (2/3인칭 단수 불규칙)
+helfen : v. help
+fangen : v. catch (2/3인칭 단수 불규칙 – ä)
+kicken : v. kick
+kann : v. (조동사) can
+das : pron. this/these
+mit : prep. with (mit + Dativ)
+new : adj./ad. new
+hier : adj./ad. here
+kennenlernen : v. know
+auch : ad. also
